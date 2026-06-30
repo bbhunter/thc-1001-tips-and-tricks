@@ -2815,6 +2815,7 @@ Telegram Channels<a id="channels"></a>
 1. [Android Security / Malware](https://t.me/androidMalware)
 1. [OSINT CyberDetective](https://t.me/cybdetective)
 1. [BookZillaaa](https://t.me/bookzillaaa)
+1. [Rootkit Researchers](https://t.me/kernel_rootkit)
 
 Mindmaps & Knowledge
 1. [Compass Sec Cheat Sheets](https://github.com/CompassSecurity/Hacking_Tools_Cheat_Sheet)
@@ -2857,7 +2858,7 @@ Use `curl -fsSL bench.sh | bash` to speed test a server.
 
 Hacking over long latency links or slow links can be frustrating. Every keystroke is transmitted one by one and any typo becomes so much more frustrating and time consuming to undo. *rlwrap* comes to the rescue. It buffers all single keystrokes until *Enter* is hit and then transmits the entire line at once. This makes it so much easier to type at high speed, correct typos, ...
 
-Example for the receiving end of a revese tunnel:
+Example for the receiving end of a reverse tunnel:
 ```sh
 rlwrap --always-readline nc -vnlp 1524
 ```
